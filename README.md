@@ -15,3 +15,6 @@
 **DESCRIPTION OF TASK** : The task involves building a predictive machine learning model using scikit-learn to classify or predict outcomes (e.g., spam email detection). Deliverables include a Jupyter Notebook showcasing the model's implementation, dataset preprocessing, training, and evaluation with metrics and visualizations like a confusion matrix.
 
 **OUTPUT** :
+
+![Task4](https://github.com/user-attachments/assets/dfef01ba-3c9c-4590-a4ae-d0933b733f44)
+
